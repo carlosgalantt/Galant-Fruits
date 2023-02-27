@@ -16,19 +16,19 @@ html {
   li{
     text-decoration: none;
     list-style-type: none;
-    color: white;
+    color: #fff;
   }
   .a{
     text-decoration: none;
     padding: 15px;
     border-radius:13px;
     margin-top: 30px;
-    color: white;
+    color: #fff;
     margin-right:50px;
     font-size: 20px;
   }
   .a:hover{
-    background-color:white;
+    background-color:#fff;
     color:#111D7A ;
     transition: 0.8s;
   }
@@ -60,7 +60,7 @@ html {
     border-radius: 5px;
   }
   .im:hover{
-    border: 10px solid white;
+    border: 10px solid #fff;
   }
   main{
     text-align: center;
@@ -130,7 +130,7 @@ html {
     height: 380px;
     background-color: #111D7A ;
     text-align: center;
-    color: white;
+    color: #fff;
   }
   footer > h1{
     color: #fff;
@@ -162,7 +162,7 @@ html {
     cursor: pointer;
   }
   .aa{
-    color: white;
+    color: #fff;
     text-decoration: none;
     list-style-type: none;
     font-weight: bold;
